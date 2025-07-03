@@ -3,4 +3,13 @@
     <string name="choose_your_nfavorite_coffee">Choose your\nFavorite Coffee</string>
     <string name="the_best_grain_the_finest_road_npowerful_flavor">The best grain, the finest road\nPowerful flavor</string>
     <string name="get_started">GET STARTED</string>
+    <string name="search_anything">Search anything...</string>
+    <string name="category">category</string>
+    <string name="Category">Category</string>
+    <string name="see_all">See All</string>
+    <string name="profile">Profile</string>
+    <string name="my_order">My Order</string>
+    <string name="favorite">Favorite</string>
+    <string name="cart">Cart</string>
+    <string name="explore">Explore</string>
 </resources>
